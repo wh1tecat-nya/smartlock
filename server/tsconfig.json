@@ -1,0 +1,17 @@
+{
+	"compileOnSave": true,
+	"compilerOptions": {
+		"target": "es2017",
+		"module": "CommonJS",
+		"jsx": "react",
+		"outDir": "./dist",
+		"incremental": true,
+		"allowSyntheticDefaultImports": true,
+		"strict": true,
+		"noImplicitReturns": true,
+		"strictPropertyInitialization": false,
+		"resolveJsonModule": true,
+		"esModuleInterop": true,
+		"moduleResolution": "node"
+	}
+}
