@@ -27,7 +27,7 @@
     "typescript": "^3.7.5"
   },
   "dependencies": {
-    "aedes": "^0.40.1",
+    "aedes": "^0.42.1",
     "colors": "^1.4.0",
     "fastify": "^2.11.0",
     "fastify-static": "^2.6.0"
